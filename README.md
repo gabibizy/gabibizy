@@ -1,4 +1,4 @@
-## Eai aqui é a Gabi 😊 
+## Eai 😊 
 <div>
   <a href="https://github.com/gabibizy">
 </div>
