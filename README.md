@@ -1,5 +1,4 @@
-  ## Eai 😊 
-<div>
+ <div>
   <a href="https://github.com/gabibizy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabibizy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
